@@ -1,13 +1,17 @@
-# Vrinda Store Annual Sales Dashboard
+# # Vrinda Store Annual Sales Dashboard
+
 An interactive Excel dashboard built from raw Vrinda Store sales data (2022).
 
+## Problem
+The store's raw sales data was hard to read, which made it difficult to spot trends or decide where to focus. This dashboard turns it into one page of clear, filterable insights.
+
 ## Tools Used
-Excel, Pivot Tables, Pivot Charts, Slicers
+Excel, Pivot Tables, Pivot Charts, Slicers, Data Cleaning
 
 ## What I Did
 - Cleaned the raw sales data
 - Built Pivot Tables and Pivot Charts to analyze the data
-- Added Slicers to filter the dashboard dynamically
+- Added Slicers (Category, Month, Channel) to filter the dashboard dynamically
 - Designed a one-page dashboard with 6 charts
 
 ## Questions Answered
@@ -20,10 +24,18 @@ Excel, Pivot Tables, Pivot Charts, Slicers
 7. Which channel contributes the most sales?
 
 ## Key Insights
-- Women contribute 64% of sales
-- Maharashtra is the top state by sales
-- Amazon is the leading sales channel (35%)
-- 92% of orders were delivered
+- Women contribute **64%** of sales, and adult women are the largest buyer group (**34.59%** of orders)
+- Sales and orders peaked in **March** and declined steadily, reaching their lowest levels in Nov-Dec
+- **Maharashtra, Karnataka and Uttar Pradesh** are the top 3 states by sales
+- **Amazon (35%), Myntra (23%) and Flipkart (22%)** bring in most orders
+- **92%** of orders were delivered; about 8% were returned, cancelled or refunded
+
+## Recommendations
+- Focus marketing and new collections on women buyers, especially adults
+- Invest more in the top 3 states and test campaigns in lower-performing ones
+- Prioritize Amazon, Myntra and Flipkart for promotions
+- Investigate the sales drop in Nov-Dec and run seasonal offers to recover it
+- Reduce returns and cancellations to protect revenue
 
 ## Dashboard Preview
 <img width="1504" height="643" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/933ad069-c237-4caa-a559-7d147ba88ce2" />
