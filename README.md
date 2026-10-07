@@ -1,4 +1,4 @@
-# # Vrinda Store Annual Sales Dashboard
+# Vrinda Store Annual Sales Dashboard
 
 An interactive Excel dashboard built from raw Vrinda Store sales data (2022).
 
