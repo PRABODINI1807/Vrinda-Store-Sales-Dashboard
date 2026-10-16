@@ -38,5 +38,5 @@ Excel, Pivot Tables, Pivot Charts, Slicers, Data Cleaning
 - Reduce returns and cancellations to protect revenue
 
 ## Dashboard Preview
-<img width="1504" height="643" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/933ad069-c237-4caa-a559-7d147ba88ce2" />
+<img width="1307" height="704" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/4d70ca9b-bc01-485f-bc0b-cf3650b3d66f" />
  
